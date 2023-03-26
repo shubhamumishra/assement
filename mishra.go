@@ -6,7 +6,7 @@ import (
 	"math/big"
 	"os"
 
-	"github.com/Polygon/matic-sdk-bindings/go-bindings/nft"
+	"github.com/0xPolygon/polygon-edge"
 	"github.com/ethereum/go-ethereum/accounts/abi/bind"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/ethclient"
